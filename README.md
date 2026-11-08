@@ -1,4 +1,4 @@
-# Trabajo# Hola, soy Yerith Zoe Botello 👋
+# Hola, soy Yerith Zoe Botello 👋
 
 ## Sobre mí
 Soy aprendiz del Técnico en Programación de Software del SENA.
