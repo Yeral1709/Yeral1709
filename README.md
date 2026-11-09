@@ -10,3 +10,4 @@ Soy aprendiz del Técnico en Programación de Software del SENA.
 
 ## Proyectos destacados
 https://github.com/Yeral1709/pokedex-sena.git
+https://github.com/Yeral1709/taller-integrador-api.git
